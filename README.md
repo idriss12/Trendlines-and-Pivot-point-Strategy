@@ -1,2 +1,4 @@
 # Trendlines-and-Pivot-point-Strategy
 The Trendline-Pivot Strategy is based on the idea of taking advantage of the periods of the day that we have substantial amount of volume exchanged in the Market in order to take trades We identify abnormal period of volume exchange  Pivot point and trend lines helps to get a clear sentiment of the investors in terms of the direction of the Market.  If the Price > Pivot and Short-term Trendline > Long-term Trendline and Volume > Treshold ==> BUY  If the Price &lt; Pivot and Short-term Trendline &lt; Long-term Trendline and Volume > Treshold ==> SELL
+This strategy concerns only the FOREX Market or in other words the currency market. I use the GBPNZD for this example but it can be used with other currency pairs.
+Disclaimer : This is not a financial advice, but only for educational purposes. I am not responsible of any investment donne by one reader based on this information.
